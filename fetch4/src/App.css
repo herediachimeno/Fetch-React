@@ -1,0 +1,7 @@
+.carta:hover {
+  transform: rotate(20deg);
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
